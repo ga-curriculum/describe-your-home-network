@@ -49,7 +49,7 @@ tktk If there is not a deployed site related to this module this section and all
 
 ### Course landing pages
 
-- [ITB - ITB](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/describe-your-home-network/canvas-landing-pages/itb.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/describe-your-home-network/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/describe-your-home-network/canvas-landing-pages/fallback.html)
 
 ### Resources
