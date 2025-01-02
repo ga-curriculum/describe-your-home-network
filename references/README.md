@@ -5,6 +5,6 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [tktk descriptive name of link]()
+- [tktk descriptive name of link]()
+- [tktk descriptive name of link]()
