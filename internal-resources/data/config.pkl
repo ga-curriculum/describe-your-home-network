@@ -12,13 +12,20 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Describe Your Home Network"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "describe-your-home-network"
   type = "Lesson"
 }
 
 courses {
+  new {
+    // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      
+    }
+  }
   new {
     // Do not remove this fallback course!
     name = "fallback"

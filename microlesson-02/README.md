@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Describe Your Home Network</span>
   <span class="subhead">tktk Microlesson 02</span>
 </h1>
 

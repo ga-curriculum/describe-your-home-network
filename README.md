@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Describe Your Home Network</span>
 </h1>
 
 ## About
@@ -49,8 +49,8 @@ tktk If there is not a deployed site related to this module this section and all
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - ITB](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/describe-your-home-network/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/describe-your-home-network/canvas-landing-pages/fallback.html)
 
 ### Resources
 
