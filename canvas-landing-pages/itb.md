@@ -3,7 +3,7 @@
   <span class="headline">Describe Your Home Network</span>
 </h1>
 
-In this module students will use their existing knowledge of networking to describe their home networks.
+In this module students will use their existing knowledge of networking to describe their home networks in a discussion activity.
 
 ## Content
 
