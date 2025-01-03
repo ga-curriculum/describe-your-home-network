@@ -7,7 +7,7 @@ In this module students will use their existing knowledge of networking to descr
 
 ## Content
 
-***Coming soon. Will address the following learning objectives:***
+***Coming soon. This content will address the following learning objectives:***
 
 1. Describe the components of your home network.
 2. Identify potential improvements in your home network.
