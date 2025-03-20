@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-describeYourHomeNetwork = new Template.Microlesson {
-  friendlyName = "Describe Your Home Network"
-  dirName = "describe-your-home-network"
+homeNetworkDiscussion = new Template.Microlesson {
+  friendlyName = "Home Network Discussion"
+  dirName = "home-network-discussion"
   type = "Content"
   videoUrl = ""
 }

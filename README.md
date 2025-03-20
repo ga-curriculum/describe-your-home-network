@@ -11,8 +11,8 @@ This module will guide you through the process of understanding the components o
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Describe Your Home Network](./describe-your-home-network/README.md)                          | 30 min | Review and improve your home network. |
-| **Total content**                                   | 30 min |                                     |
+| [Home Network Discussion](./home-network-discussion/README.md) | 30 min | Review and improve your home network. |
+| **Total content**                                              | 30 min |                                       |
 
 ## References
 
